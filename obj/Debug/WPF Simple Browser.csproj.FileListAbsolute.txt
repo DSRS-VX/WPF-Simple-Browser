@@ -1,0 +1,19 @@
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\bin\Debug\WPF Simple Browser.exe.config
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\bin\Debug\WPF Simple Browser.exe
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\bin\Debug\WPF Simple Browser.pdb
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\bin\Debug\WPF Simple Browser.exe.CodeAnalysisLog.xml
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\bin\Debug\WPF Simple Browser.exe.lastcodeanalysissucceeded
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\obj\Debug\WPF Simple Browser.csprojResolveAssemblyReference.cache
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\obj\Debug\WBrowser.baml
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\obj\Debug\MainWindow.baml
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\obj\Debug\WBrowser.g.cs
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\obj\Debug\MainWindow.g.cs
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\obj\Debug\App.g.cs
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\obj\Debug\WPF Simple Browser_MarkupCompile.cache
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\obj\Debug\WPF Simple Browser_MarkupCompile.lref
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\obj\Debug\WPF Simple Browser.g.resources
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\obj\Debug\WPF_Simple_Browser.Properties.Resources.resources
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\obj\Debug\WPF Simple Browser.csproj.GenerateResource.cache
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\obj\Debug\WPF Simple Browser.csproj.CoreCompileInputs.cache
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\obj\Debug\WPF Simple Browser.exe
+C:\Users\PheonixVX\source\repos\WPF Simple Browser\WPF Simple Browser\obj\Debug\WPF Simple Browser.pdb
