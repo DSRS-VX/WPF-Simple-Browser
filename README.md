@@ -10,3 +10,6 @@ a Very Simple WPF Browser made in Visual Studio 2017
 
 # Contribution
 This is more of a template for a browser so i wouldn't really contribute to it but you can if you want
+
+# Things to Note
+The webbrowser element in VS2017 is really just a IE (Internet Explorer) which is a very old browser so not all webpages will work good.
